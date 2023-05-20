@@ -6,9 +6,9 @@ from bs4 import BeautifulSoup
 
 
 # Create and export to names.csv
-def createcsv(results, phone_results, st):
+def createcsv(results, phone_results, st, cityn):
     df = pd.DataFrame({'Names': results, 'Phone': phone_results})
-    df.to_csv('names.csv', index=False, encoding='utf-8')
+    df.to_csv(f'{cityn.replace("-", "")}.csv', index=False, encoding='utf-8')
     print("\n[!] Data Scraped and Saved into names.csv!")
     print("\n--- in %s seconds ---" % (time.time() - st))
 
@@ -76,7 +76,7 @@ def scrapeit():
             pageNumber += 1
             #Slows down HTTP Requests to prevent connection refusal
             time.sleep(2) # change number of seconds as per your convinience
-        createcsv(results, phone_results, st)
+        createcsv(results, phone_results, st, cityn)
     else:
         print(f"\n[!] Something Went Wrong: Response Code {r.status_code}\n\nMore details:\n{r.text}")
 
