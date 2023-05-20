@@ -7,11 +7,7 @@ For Now Its really simple.
 
 <h5>TODO:</h5>
 i.  Add Threading <br> 
-<br>
-<br>
 
-<br>
-<br>
 BTW here are my wallet addresses incase u want to send eLove 🥺💖 👉👈 <br>
 BTC - bc1q3kt9cljwj5q406ywa4jyzwhwduzw63rs684zrs <br>
 LTC - Lbw8jdX6mb4E7xDXn419szu7PnT9z7oe96 <br>
