@@ -3,8 +3,7 @@ Scrapes the Real Estate Agents from all around the world from platform called Re
 For Now Its really simple. 
 
 <h5>TODO:</h5>
-i.  Add Threading <br>
-ii. Same name of File as scraped city (too easy, i prefer u do on your own if i didnt updated untill the time you saw the repo) 
+i.  Add Threading <br> 
 <br>
 <br>
     
