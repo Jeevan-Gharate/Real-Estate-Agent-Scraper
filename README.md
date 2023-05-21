@@ -7,7 +7,7 @@ For Now Its really simple.
 
 <h5>TODO:</h5>
 i.  Add Threading <br>
-ii. Fix accrate Page Count
+ii. Fix accurate Page Count
 <br> 
 <br>
 <br>
