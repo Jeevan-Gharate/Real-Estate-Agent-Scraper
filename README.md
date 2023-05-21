@@ -10,7 +10,7 @@ i.  Add Threading
 <br> 
 <br>
 <br>
-AM BEGGIN' BEGGIN' YOuuuhhh 🎵😎😭<br>
+
 BTW here are my wallet addresses incase u want to send eLove 🥺💖 👉👈 <br>
 <br>
 BTC - bc1q3kt9cljwj5q406ywa4jyzwhwduzw63rs684zrs <br>
