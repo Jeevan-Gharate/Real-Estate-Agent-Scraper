@@ -14,7 +14,7 @@ ii. Fix accurate Page Count
 
 BTW here are my wallet addresses incase u want to send eLove 🥺💖 👉👈 <br>
 <br>
-BTC - bc1q3kt9cljwj5q406ywa4jyzwhwduzw63rs684zrs <br>
+BTC - bc1qe5mxk9fwjk20vewln47hv8hmd3yten6g6448vn <br>
 LTC - Lbw8jdX6mb4E7xDXn419szu7PnT9z7oe96 <br>
 SOL - A99MxkeLWaaTmANJhGwhBnrLBZwiMqCZvQrfuykQaYKg <br>
 <br>
